@@ -1,6 +1,7 @@
 # animated-profile-badge
 
 ![image](https://www.codefactor.io/repository/github/KennyOliver/animated-profile-badge/badge?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KennyOliver/animated-profile-badge?style=for-the-badge)
 
 [![](https://repl.it/badge/github/KennyOliver/animated-profile-badge)](https://repl.it/@KennyOliver/animated-profile-badge)
 
