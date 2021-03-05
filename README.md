@@ -9,7 +9,7 @@
 
 [![Website Link](https://img.shields.io/badge/See%20It%20Yourself-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://animated-profile-badge.kennyoliver.repl.co)](https://animated-profile-badge.kennyoliver.repl.co)
 
-Minimalistic profile badge with spinning photo upon hover
+Minimalistic profile badge
 
 ---
 Kenny Oliver ©2021
