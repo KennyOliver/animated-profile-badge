@@ -10,6 +10,7 @@
 [![Website Link](https://img.shields.io/badge/See%20It%20Yourself-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://animated-profile-badge.kennyoliver.repl.co)](https://animated-profile-badge.kennyoliver.repl.co)
 
 Minimalistic **profile badge**
+
 ![image](https://user-images.githubusercontent.com/70860732/110203566-c746c500-7e66-11eb-986b-dddfa6040f81.jpeg)
 
 ---
